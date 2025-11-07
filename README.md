@@ -6,5 +6,5 @@
 [![Email](https://img.shields.io/badge/Email-baturalpkalabalik99@gmail.com-cyan?logo=gmail)](mailto:baturalpkalabalik99@gmail.com)
 
 ## Projects
-[Maven JavaFX Hilfsbutton](https://github.com/devdiyar/kidsapp)
+[kidsapp](https://github.com/devdiyar/kidsapp)
 
