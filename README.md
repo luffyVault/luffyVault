@@ -6,5 +6,5 @@
 [![Email](https://img.shields.io/badge/Email-baturalpkalabalik99@gmail.com-cyan?logo=gmail)](mailto:baturalpkalabalik99@gmail.com)
 
 ## Projects
-[kidsapp](https://github.com/devdiyar/kidsapp)
-
+- [kidsapp](https://github.com/devdiyar/kidsapp)
+- [webtechnologien praktika](https://github.com/luffyVault/webtech_praktika)
