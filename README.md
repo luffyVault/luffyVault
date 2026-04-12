@@ -8,5 +8,5 @@
 ## Projekte
 - [kidsapp](https://github.com/devdiyar/kidsapp)
 - [webtechnologien]
-- [datenbanken1 praktika]
+- [datenbanken]
 - [clusteranalyse](https://github.com/luffyVault/clusteranalyse)
