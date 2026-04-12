@@ -1,8 +1,8 @@
 ## Über mich
 - **Informatik-Student (FH Dortmund) | Vertiefung Data-Science**
-- **Studentische Hilfskraft (FH Dortmund) 🔗 Zugehöriges Projekt: [Folgt später]()**
+- **Studentische Hilfskraft @ FH Dortmund 🔗 Zugehöriges Projekt: _in progress_**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-connect-blue?logo=linkedin)](www.linkedin.com/in/baturalp-k-474a79283)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-connect-blue?logo=linkedin)](https://www.linkedin.com/in/baturalp-k-474a79283)
 
 ## Projekte
 - [kidsapp](https://github.com/devdiyar/kidsapp)
