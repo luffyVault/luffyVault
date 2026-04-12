@@ -1,10 +1,8 @@
-# luffyVault
-
 ## Über mich
 - **Informatik-Student (FH Dortmund) | Vertiefung Data-Science**
-- **Studentische Hilfskraft (FH Dortmund)**
+- **Studentische Hilfskraft (FH Dortmund) 🔗 Zugehöriges Projekt: [Folgt später]()**
 
-[![LinkedIn]([https://img.shields.io/badge/LinkedIn-connect-blue?logo=linkedin)](https://www.linkedin.com/in/baturalp-kalabalik-474a79283/](https://www.linkedin.com/in/baturalp-k-474a79283/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-connect-blue?logo=linkedin)](https://www.linkedin.com/in/baturalp-kalabalik-474a79283/)
 [![Email](https://img.shields.io/badge/Email-baturalpkalabalik99@gmail.com-cyan?logo=gmail)](mailto:baturalpkalabalik99@gmail.com)
 
 ## Projekte
