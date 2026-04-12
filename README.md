@@ -7,5 +7,6 @@
 
 ## Projects
 - [kidsapp](https://github.com/devdiyar/kidsapp)
-- [webtechnologien praktika](https://github.com/luffyVault/webtech_praktika)
+- [webtechnologien praktika]
+- [datenbanken1 praktika]
 - [clusteranalyse](https://github.com/luffyVault/clusteranalyse)
